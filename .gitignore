@@ -1,0 +1,11 @@
+# Virtual env route
+env/*
+
+# PyCache
+__pycache__
+
+# SQLite local db
+db.sqlite3
+
+# Ignore .env file
+.env
