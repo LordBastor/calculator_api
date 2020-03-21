@@ -3,6 +3,7 @@ env/*
 
 # PyCache
 __pycache__
+*.py[cod]
 
 # SQLite local db
 db.sqlite3
